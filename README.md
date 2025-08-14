@@ -2,7 +2,8 @@
 
 A stunning space-themed 404 error page with modern design and responsive layout.
 
-![Space404 Preview](404img.png)
+![Space404 Preview](<img width="1599" height="767" alt="image" src="https://github.com/user-attachments/assets/787d6b3c-7892-433f-8a49-eb1fbdf5ad81" />
+)
 
 ## ✨ Features
 
